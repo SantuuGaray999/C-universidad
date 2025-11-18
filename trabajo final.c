@@ -144,7 +144,7 @@ void bus_nombre(){ //Ciclo que busca a usuarios por nombre
 
 void ord_nombre(){ //Funcion que mostrara todos los trabajadores ordenados alfabeticasmente
 	int k,j; //Variables de ciclos auxiliares
-	char aux[20], auxb[20], auxc[20], auxd[20]; //Variables donde guardaremos temporalmente los datos de usuario
+	char aux[20], auxb[20], auxc[20], auxd[20]; //Variables donde guarda temporalmente los datos de usuario
 	system("cls"); //Limpiamos pantalla
 	
 	if(y==1) 
@@ -178,4 +178,5 @@ void ord_nombre(){ //Funcion que mostrara todos los trabajadores ordenados alfab
 	}
 	system("PAUSE");	
 }
+
 
